@@ -3,9 +3,7 @@ layout: page
 title: Home
 ---
 
-![Profile picture](/assets/images/foto_pro.jpg){: width="180px" style="float:left; padding-right:30px" }
-
-# Albert Redo-Sanchez, PhD
+# Paweł Morawiecki
 
 Distinguished Professor in the [Graphics and Imaging Lab](https://graphics.unizar.es/) research group at the [Universidad de Zaragoza](https://eina.unizar.es/)
 
