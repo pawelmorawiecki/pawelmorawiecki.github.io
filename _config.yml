@@ -13,21 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
+title:  
 email:
-description:
+description: 
 baseurl: ""
 url:
 github_username: pawelmorawiecki
 
 header_pages:
   - index.md
+  
   - phd.md
-  - professional.md
-  - academic.md
   - publications.md
-  - media.md
-  - resources.md
+  - grants.md
+
 
 # Build settings
 markdown: kramdown
