@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: " " 
 email:
-description: ___
+description: " "
 baseurl: ""
 url:
-github_username: pawelmorawiecki
+github_username:
 
 header_pages:
   - index.md
