@@ -27,7 +27,7 @@ I have been involved in the following grants and projects:
   Number: 2013/09/D/ST6/03918 <br>
   Role: Principal Investigator
 
-- MNiSW grant, funded by Ministry of Science and Higher Education, Poland, 2006-2009 <br>
+- MNiSW grant, funded by Ministry of Science and Higher Education, Poland and Agency for Science, Technology and Research (A*STAR), Singapore, 2006-2009 <br>
   Title: Novel Digital Signal and Image Processing Software and Hardware for Information Systems <br>
   Number: SINGAPUR/31/2006 <br>
-  Role: Investigator
+  Role: Investigator 
