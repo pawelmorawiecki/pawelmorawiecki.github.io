@@ -11,7 +11,7 @@ I am an associate professor at the [Institute of Computer Science](https://ipipa
 E-mail: pawel.morawiecki@gmail.com
 \
 \
-Google scholar [profile](https://scholar.google.com/citations?user=Wjhap7MAAAAJ&hl=en) <br>
+Google scholar [profile](https://scholar.google.com/citations?user=eLuRi8oAAAAJ&hl=en) <br>
 DBLP [profile](https://dblp.org/pid/94/2786.html) <br>
 Github [profile](https://github.com/pawelmorawiecki) <br>
 
