@@ -9,7 +9,7 @@ title: Home
 
 I am an associate professor at the [Institute of Computer Science](https://ipipan.waw.pl/), Polish Academy of Sciences, where I am a head of the cryptography group. Currently, my main research interest is at the intersection between security and deep learning. Previously, I was more involved in cryptography, cryptanalysis and logic synthesis.
 
-My main hobby is playing go. I am a dan player (master level). 
+My main hobby is a game of Go. I am a dan player (master level). 
 
 
 E-mail: pawel.morawiecki@gmail.com
