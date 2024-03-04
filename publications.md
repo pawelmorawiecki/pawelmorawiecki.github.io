@@ -41,7 +41,7 @@ Differential-linear and related key cryptanalysis of round-reduced scream. Inf. 
 Deep Neural Networks for Coreference Resolution for Polish. LREC 2018
 
 ### 2017
-* Pawel Morawiecki: Practical attacks on the round-reduced PRINCE. IET Inf. Secur. 11(3): 146-151 (2017)
+* Pawel Morawiecki: Practical attacks on the round-reduced PRINCE. IET Inf. Secur. 11(3): 146-151 (2017) [pdf](/assets/images/PRINCE.pdf)
 * Ashutosh Dhar Dwivedi, Milos Kloucek, Pawel Morawiecki, Ivica Nikolic, Josef Pieprzyk, Sebastian Wójtowicz:
 SAT-based Cryptanalysis of Authenticated Ciphers from the CAESAR Competition. SECRYPT 2017: 237-246 [pdf](/assets/images/SAT_CAESAR.pdf)
 * Ashutosh Dhar Dwivedi, Pawel Morawiecki, Sebastian Wójtowicz:
@@ -58,7 +58,7 @@ Cube Attacks and Cube-Attack-Like Cryptanalysis on the Round-Reduced Keccak Spon
 ICEPOLE: High-Speed, Hardware-Oriented Authenticated Encryption. CHES 2014: 392-413 [pdf](/assets/images/icepole.pdf)
 
 ### 2013
-* Pawel Morawiecki, Marian Srebrny: A SAT-based preimage analysis of reduced Keccak hash functions. Inf. Process. Lett. 113(10-11): 392-397 (2013)
+* Pawel Morawiecki, Marian Srebrny: A SAT-based preimage analysis of reduced Keccak hash functions. Inf. Process. Lett. 113(10-11): 392-397 (2013) [pdf](/assets/images/SAT_keccak.pdf)
 * Pawel Morawiecki, Josef Pieprzyk, Marian Srebrny: Rotational Cryptanalysis of Round-Reduced Keccak. FSE 2013: 241-262 [pdf](/assets/images/rotational_FSE.pdf)
 
 ### 2012
