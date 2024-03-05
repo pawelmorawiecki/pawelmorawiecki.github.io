@@ -10,7 +10,7 @@ permalink: /publications/
 ## Selected publications
 
 ### 2024
-Jan Dubiński, Antoni Kowalczuk, Stanisław Pawlak, Przemyslaw Rokita, Tomasz Trzciński, Paweł Morawiecki: Towards More Realistic Membership Inference Attacks on Large Diffusion Models. WACV 2024 
+* Jan Dubiński, Antoni Kowalczuk, Stanisław Pawlak, Przemyslaw Rokita, Tomasz Trzciński, Paweł Morawiecki: Towards More Realistic Membership Inference Attacks on Large Diffusion Models. WACV 2024 
 [pdf](/assets/images/WACV_2024.pdf)
 
 ### 2023
