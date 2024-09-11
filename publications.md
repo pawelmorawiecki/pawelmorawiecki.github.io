@@ -10,6 +10,8 @@ permalink: /publications/
 ## Selected publications
 
 ### 2024
+* Arash Mahboubi, Seyit Camtepe, Keyvan Ansari, Marcin Pawłowski, Paweł Morawiecki, Hamed Aboutorab, Josef Pieprzyk, Jarek Duda: Shared file protection against unauthorised encryption using a Buffer-Based Signature Verification Method. Journal of Information Security and Applications, Volume 86, 2024 [pdf](/assets/images/shared_file_protection.pdf)
+* Arash Mahboubi, Seyit Camtepe, Keyvan Ansari, Marcin Pawłowski, Paweł Morawiecki, Jarek Duda, Josef Pieprzyk: File System Shield (FSS): A Pass-Through Strategy Against Unwanted Encryption in Network File Systems. IWSEC 2024 [pdf](/assets/images/file_system_shield.pdf)
 * Jan Dubiński, Antoni Kowalczuk, Stanisław Pawlak, Przemyslaw Rokita, Tomasz Trzciński, Paweł Morawiecki: Towards More Realistic Membership Inference Attacks on Large Diffusion Models. WACV 2024 
 [pdf](/assets/images/WACV_2024.pdf)
 
