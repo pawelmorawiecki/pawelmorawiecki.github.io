@@ -14,3 +14,5 @@ My Phd students:
 * Andrii Krutsylo: (Continual learning in deep neural networks), Institute of Computer Science, Polish Academy of Sciences, in progress
 
 * Michał Pietruszka: (NLP with deep neural networks), Jagiellonian University, in progress
+  
+* Jarosław Janas: (Security in generative neural networks), Institute of Computer Science, Polish Academy of Sciences, in progress
