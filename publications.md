@@ -9,6 +9,10 @@ permalink: /publications/
 
 ## Selected publications
 
+### 2025
+* Josef Pieprzyk, Marcin Pawlowski, Pawel Morawiecki, Arash Mahboubi, Jarek Duda, Seyit Camtepe:
+Pseudorandom bit generation with asymmetric numeral systems. Int. J. Inf. Sec. 24(2): 82 (2025) [pdf](/assets/images/PRNG_ANS.pdf)
+
 ### 2024
 * Arash Mahboubi, Seyit Camtepe, Keyvan Ansari, Marcin Pawłowski, Paweł Morawiecki, Hamed Aboutorab, Josef Pieprzyk, Jarek Duda: Shared file protection against unauthorised encryption using a Buffer-Based Signature Verification Method. Journal of Information Security and Applications, Volume 86, 2024 [pdf](/assets/images/shared_file_protection.pdf)
 * Arash Mahboubi, Seyit Camtepe, Keyvan Ansari, Marcin Pawłowski, Paweł Morawiecki, Jarek Duda, Josef Pieprzyk: File System Shield (FSS): A Pass-Through Strategy Against Unwanted Encryption in Network File Systems. IWSEC 2024 [pdf](/assets/images/file_system_shield.pdf)
