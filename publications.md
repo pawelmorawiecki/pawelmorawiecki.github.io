@@ -9,6 +9,11 @@ permalink: /publications/
 
 ## Selected publications
 
+### 2026
+* Michal Pietruszka, Lukasz Borchmann, Aleksander Jedrosz, Pawel Morawiecki:
+Can Models Help Us Create Better Models? Evaluating LLMs as Data Scientists. EACL 2026, 19th Conference of the European Chapter of the Association for Computational Linguistics. [pdf](/assets/images/EACL_2026.pdf)
+
+
 ### 2025
 * Josef Pieprzyk, Marcin Pawlowski, Pawel Morawiecki, Arash Mahboubi, Jarek Duda, Seyit Camtepe:
 Pseudorandom bit generation with asymmetric numeral systems. Int. J. Inf. Sec. 24(2): 82 (2025) [pdf](/assets/images/PRNG_ANS.pdf)
