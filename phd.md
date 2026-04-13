@@ -11,7 +11,7 @@ My Phd students:
 
 * Ashutosh Dhar Dwivedi: "Cryptanalysis of lightweight ciphers", defended at Institute of Computer Science, Polish Academy of Sciences, 2020 
 
-* Andrii Krutsylo: (Continual learning in deep neural networks), Institute of Computer Science, Polish Academy of Sciences, in progress
+* Andrii Krutsylo: "Continual Learning with Experience Replay", defended at Institute of Computer Science, Polish Academy of Sciences, 2026
 
 * Michał Pietruszka: (NLP with deep neural networks), Jagiellonian University, in progress
   
